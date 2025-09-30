@@ -1,0 +1,29 @@
+{
+  "latestId": 0,
+  "tasks": [
+    {
+      "id": 2025911162712603,
+      "title": "generate unique ID per list",
+      "completed": false,
+      "createdAt": 1757597232605
+    },
+    {
+      "id": 2025911162750844,
+      "title": "use inquirer pkg for better UI",
+      "completed": false,
+      "createdAt": 1757597270844
+    },
+    {
+      "id": 2025911162824780,
+      "title": "add dynamic table size/width",
+      "completed": true,
+      "createdAt": 1757597304780
+    },
+    {
+      "id": 202591116296683,
+      "title": "ability to create new list file",
+      "completed": false,
+      "createdAt": 1757597346683
+    }
+  ]
+}
